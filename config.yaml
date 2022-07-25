@@ -1,7 +1,8 @@
-baseURL: http://example.org/
+baseURL: https://www.puplakto.com
 languageCode: "zh-HK"
 title: Bark :3
 theme: m10c
+publishDir: docs
 
 params:
   social:
