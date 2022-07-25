@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: "zh-HK"
+title: Bark :3
+theme: m10c
+
+params:
+  social:
+    - icon: twitter
+      url: https://twitter.com/pupbarp
+
+  style:
+    primaryColor: "#ffffff"
+    darkColor: "#253031"
+    darkestColor: "#315659"
+    lightColor: "#a2a2a2"
+    lightestColor: "#d3d3d3"
