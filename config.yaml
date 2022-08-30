@@ -1,16 +1,22 @@
 baseURL: https://lakto.pupraki.com/
 languageCode: "zh-HK"
-title: Bark :3
+title:  Lakto's Burrow
 theme: m10c
 publishDir: docs
 
 params:
+  author: Lakto
+  avatar: avatar.jpg
+  description: Lakto is the perfect partner for tea, and a beverage made from Raki.
+
   social:
+    - icon: facebook
+      url: https://www.facebook.com/puplakto
     - icon: twitter
       url: https://twitter.com/PupLakto
 
   style:
-    primaryColor: "#ffffff"
+    primaryCol  or: "#ffffff"
     darkColor: "#253031"
     darkestColor: "#315659"
     lightColor: "#a2a2a2"
