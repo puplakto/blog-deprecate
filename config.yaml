@@ -1,4 +1,4 @@
-baseURL: https://www.puplakto.com
+baseURL: https://lakto.pupraki.com/
 languageCode: "zh-HK"
 title: Bark :3
 theme: m10c
@@ -7,7 +7,7 @@ publishDir: docs
 params:
   social:
     - icon: twitter
-      url: https://twitter.com/pupbarp
+      url: https://twitter.com/PupLakto
 
   style:
     primaryColor: "#ffffff"
